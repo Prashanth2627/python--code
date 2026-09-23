@@ -10,7 +10,7 @@ Example:
 Then the output should be:
 1010
 
-Program:
+### Program:
 ```
 a=input().split(",")
 res=[]
@@ -33,7 +33,7 @@ Then, the output should be:
 LETTERS 10
 DIGITS 3
 
-Program
+### Program
 ```
 sen = "hello world! 123"
 let=0;
@@ -57,7 +57,7 @@ results should be printed in a comma-separated sequence on a single
 line.Suppose the following input is supplied to the program:8
 Then, the output should be:40320
 
-Program
+### Program
 ```
 a=int(input())
 fact = 1
